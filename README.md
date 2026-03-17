@@ -1,21 +1,76 @@
-# 💫 About Me:
-Hi! I'm Algifahri Tri Ramadhan, a passionate web developer who loves turning ideas into clean, functional, and user-friendly websites. I enjoy working with modern web technologies and continuously improving my skills to build better digital experiences.<br>I’m always excited to learn new things, create meaningful projects, and bring creative concepts to life through code.
+<p align="center">
+  <img src="https://i.pinimg.com/originals/36/51/26/365126a63911723046e0ef2ae1e249ff.gif" width="100%" />
+</p>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3ECF8E&center=true&vCenter=true&width=700&lines=Student+of+SMK+Taruna+Bhakti;Always+Learning,+Always+Growing;Embracing+the+Beginner's+Mindset;Turning+Coffee+into+Code;" alt="Typing SVG" />
+  </a>
+</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/algi_pcy3s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Algifahri Tri Ramadhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:algifahrihero.04@gmail.com) 
+<div align="center">
+  <img src="https://img.shields.io/badge/Location-Indonesia-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Humble+Learner-success?style=flat-square&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Goal-Seeking+Knowledge-orange?style=flat-square&logo=rocket&logoColor=white" />
+</div>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Algi221&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Algi221&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Algi221&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Algi221&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 💫 About Me:
+
+Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believe that in the world of technology, we are all lifelong students. Although I am still at the beginning of my journey and have a lot more to learn, I am deeply committed to mastering the craft of web development one line of code at a time.
+
+- 🚀 **Growth Mindset**: I see every bug as a lesson and every project as an opportunity to grow.
+- 📚 **Continuous Learning**: Currently exploring the vast world of Fullstack Development.
+- 🌱 **Humble Beginnings**: Proudly building my foundation and always open to feedback and mentorship.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Algi221&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛤️ My Learning Path:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,go,py,php,react,nextjs,tailwind,postgresql,aws" />
+  <br><br>
+  <i>"The more I learn, the more I realize how much I don't know."</i>
+</div>
+
+---
+
+### 🌐 Socials:
+
+<p align="left">
+<a href="https://instagram.com/algi_pcy3s" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="mailto:akunalgi62@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🛠️ Development Workflow:
+
+<p align="center">
+  <img src="https://mermaid.ink/img/pako:eNqNkc9OwzAMxl8l8mkr-AIOIHTghBAHhBAnLidN09o5XTuFpWnfnaSjrZNuP_tL_vn8OatXGZUVpG6NupInH4V8R_R70_S28L2r7YV8E6E3S6STh-E860uYmGg4q0v3Y6oXG_4Ksw56ZezP_OasY-E-jPzH8U5oE0U-BfR-hG6pSDq7P0fR9f0Z_Q_Z4_j-uP-GfRmhV0ukmUdhH9IWh8YEx6K8oN6vL3FhYuyMFrrS1UavX7R_OIs?type=png" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Algi221&theme=tokyonight&hide_border=false" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algi221&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
+
+## 🏆 GitHub Trophies:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Algi221&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Algi221&icon=0&color=1" /></a>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>
