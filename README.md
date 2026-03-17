@@ -73,10 +73,5 @@ graph LR
 
 <br/>
 
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Algi221&icon=0&color=1" /></a>
-  <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
