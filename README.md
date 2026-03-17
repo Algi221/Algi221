@@ -36,6 +36,23 @@ Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believ
 
 ---
 
+### 🛠️ Development Workflow:
+
+```mermaid
+graph LR
+    A[Idea] --> B(Design/Figma)
+    B --> C{Coding}
+    C --> D[Frontend/React]
+    C --> E[Backend/Go]
+    D --> F[Vercel/Netlify]
+    E --> G[Cloud/AWS]
+    F --> H((Live Project))
+    G --> H
+    style H fill:#3ECF8E,stroke:#333,stroke-width:4px
+```
+
+---
+
 ### 🌐 Socials:
 
 <p align="left">
@@ -45,21 +62,17 @@ Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believ
 
 ---
 
-### 🛠️ Development Workflow:
-
-<p align="center">
-  <img src="https://mermaid.ink/img/pako:eNqNkc9OwzAMxl8l8mkr-AIOIHTghBAHhBAnLidN09o5XTuFpWnfnaSjrZNuP_tL_vn8OatXGZUVpG6NupInH4V8R_R70_S28L2r7YV8E6E3S6STh-E860uYmGg4q0v3Y6oXG_4Ksw56ZezP_OasY-E-jPzH8U5oE0U-BfR-hG6pSDq7P0fR9f0Z_Q_Z4_j-uP-GfRmhV0ukmUdhH9IWh8YEx6K8oN6vL3FhYuyMFrrS1UavX7R_OIs?type=png" />
-</p>
-
----
-
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Algi221&theme=tokyonight&hide_border=false" />
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Algi221&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Algi221&theme=tokyonight&hide_border=false" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algi221&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
+
+<br/>
 
 ## 🏆 GitHub Trophies:
 
