@@ -65,11 +65,11 @@ graph LR
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Algi221&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Algi221&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="180" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Algi221&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Algi221&theme=tokyonight&hide_border=false" height="180" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algi221&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algi221&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180" />
 </p>
 
 <br/>
@@ -77,8 +77,15 @@ graph LR
 ## 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Algi221&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Algi221&theme=tokyonight&column=7&margin-w=15&no-bg=true" width="100%" />
 </p>
+
+---
+
+### 🏅 My Achievements:
+<div align="center">
+  <img src="https://github-profile-acc-svg.vercel.app/api?username=Algi221&theme=tokyonight" />
+</div>
 
 ---
 
