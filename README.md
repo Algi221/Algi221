@@ -40,12 +40,12 @@ Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believ
 
 ```mermaid
 graph LR
-    A[Idea] --> B(Design/Figma)
+    A[Idea] --> B(Design/Figma/anything)
     B --> C{Coding}
-    C --> D[Frontend/React]
-    C --> E[Backend/Go]
-    D --> F[Vercel/Netlify]
-    E --> G[Cloud/AWS]
+    C --> D[Frontend]
+    C --> E[Backend]
+    D --> F[Vercel/anything]
+    E --> G[Cloud/AWS/anything]
     F --> H((Live Project))
     G --> H
     style H fill:#3ECF8E,stroke:#333,stroke-width:4px
