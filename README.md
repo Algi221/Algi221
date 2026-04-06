@@ -65,8 +65,8 @@ graph LR
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Algi221&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algi221&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <img src="https://readme-stats-fast.vercel.app/api?username=Algi221&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Algi221&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Algi221&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
   <br/>
