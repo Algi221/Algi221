@@ -69,6 +69,8 @@ graph LR
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algi221&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Algi221&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Algi221/Algi221/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br/>
