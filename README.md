@@ -16,7 +16,7 @@
 
 <br>
 
-### 💫 About Me:
+### About Me:
 
 Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believe that in the world of technology, we are all lifelong students. Although I am still at the beginning of my journey and have a lot more to learn, I am deeply committed to mastering the craft of web development one line of code at a time.
 
@@ -26,7 +26,7 @@ Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believ
 
 ---
 
-### 🛤️ My Learning Path:
+### Tech Stacks:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,php,py,go,nodejs,express,react,nextjs,laravel,tailwind,mysql,postgresql,supabase,firebase,aws,vercel,docker,git,github&perline=11" />
@@ -36,7 +36,7 @@ Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believ
 
 ---
 
-### 🛠️ Development Workflow:
+###  Development Workflow:
 
 ```mermaid
 graph LR
@@ -62,7 +62,7 @@ graph LR
 
 ---
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 
 <div align="center">
   <p align="center">
