@@ -29,7 +29,7 @@ Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believ
 ### 🛤️ My Learning Path:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,py,php,react,nextjs,tailwind,postgresql,aws" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,py,go,nodejs,express,react,nextjs,laravel,tailwind,mysql,postgresql,supabase,firebase,aws,vercel,docker,git,github&perline=11" />
   <br><br>
   <i>"The more I learn, the more I realize how much I don't know."</i>
 </div>
@@ -65,14 +65,17 @@ graph LR
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://readme-stats-fast.vercel.app/api?username=Algi221&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Algi221&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Algi221&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/Algi221/Algi221/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <p align="center">
+    <img src="https://readme-stats-fast.vercel.app/api?username=Algi221&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" height="195" alt="GitHub Stats" />
+    <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Algi221&layout=compact&theme=tokyonight&border_radius=10" height="195" alt="Top Languages" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Algi221&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  </p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Algi221/Algi221/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
+  </p>
 </div>
-
 <br/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
