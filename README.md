@@ -8,21 +8,13 @@
   </a>
 </h1>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Location-Indonesia-blue?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Humble+Learner-success?style=flat-square&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Goal-Seeking+Knowledge-orange?style=flat-square&logo=rocket&logoColor=white" />
-</div>
-
-<br>
-
 ### About Me:
 
 Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believe that in the world of technology, we are all lifelong students. Although I am still at the beginning of my journey and have a lot more to learn, I am deeply committed to mastering the craft of web development one line of code at a time.
 
-- 🚀 **Growth Mindset**: I see every bug as a lesson and every project as an opportunity to grow.
-- 📚 **Continuous Learning**: Currently exploring the vast world of Fullstack Development.
-- 🌱 **Humble Beginnings**: Proudly building my foundation and always open to feedback and mentorship.
+- **Growth Mindset**: I see every bug as a lesson and every project as an opportunity to grow.
+- **Continuous Learning**: Currently exploring the vast world of Fullstack Development.
+- **Humble Beginnings**: Proudly building my foundation and always open to feedback and mentorship.
 
 ---
 
@@ -33,23 +25,6 @@ Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believ
   <br><br>
   <i>"The more I learn, the more I realize how much I don't know."</i>
 </div>
-
----
-
-###  Development Workflow:
-
-```mermaid
-graph LR
-    A[Idea] --> B(Design/Figma/anything)
-    B --> C{Coding}
-    C --> D[Frontend]
-    C --> E[Backend]
-    D --> F[Vercel/anything]
-    E --> G[Cloud/AWS/anything]
-    F --> H((Live Project))
-    G --> H
-    style H fill:#3ECF8E,stroke:#333,stroke-width:4px
-```
 
 ---
 
@@ -66,11 +41,11 @@ graph LR
 
 <div align="center">
   <p align="center">
-    <img src="https://readme-stats-fast.vercel.app/api?username=Algi221&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" height="195" alt="GitHub Stats" />
+    <img src="https://readme-stats-fast.vercel.app/api?username=Algi221&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true" height="195" alt="GitHub Stats" />
     <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Algi221&layout=compact&theme=tokyonight&border_radius=10" height="195" alt="Top Languages" />
   </p>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Algi221&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.to/?user=Algi221&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
   </p>
   <p align="center">
     <img src="https://raw.githubusercontent.com/Algi221/Algi221/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
