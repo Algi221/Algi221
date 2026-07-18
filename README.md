@@ -12,9 +12,9 @@
 
 Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believe that in the world of technology, we are all lifelong students. Although I am still at the beginning of my journey and have a lot more to learn, I am deeply committed to mastering the craft of web development one line of code at a time.
 
-- **Growth Mindset**: I see every bug as a lesson and every project as an opportunity to grow.
-- **Continuous Learning**: Currently exploring the vast world of Fullstack Development.
-- **Humble Beginnings**: Proudly building my foundation and always open to feedback and mentorship.
+- I see every bug as a lesson and every project as an opportunity to grow.
+- Currently exploring the vast world of Fullstack Development.
+- Proudly building my foundation and always open to feedback and mentorship.
 
 ---
 
