@@ -21,7 +21,7 @@ Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believ
 ### Tech Stacks:
 
 <div align="center">
-  <h4>⚡ Main Stack</h4>
+  <h4> Main Stack</h4>
   <p align="center">
     <a href="https://typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
     <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
@@ -40,7 +40,7 @@ Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believ
 <br>
 
 <details>
-  <summary><b>🌐 Programming Languages</b></summary>
+  <summary><b> Programming Languages</b></summary>
   <br/>
   <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
@@ -52,7 +52,7 @@ Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believ
 </details>
 
 <details>
-  <summary><b>🎨 Frontend & Mobile Frameworks</b></summary>
+  <summary><b> Frontend & Mobile Frameworks</b></summary>
   <br/>
   <p align="left">
     <a href="https://react.dev"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
@@ -67,7 +67,7 @@ Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believ
 </details>
 
 <details>
-  <summary><b>⚙️ Backend Frameworks</b></summary>
+  <summary><b> Backend Frameworks</b></summary>
   <br/>
   <p align="left">
     <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
@@ -80,7 +80,7 @@ Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believ
 </details>
 
 <details>
-  <summary><b>🗄️ Databases & ORMs</b></summary>
+  <summary><b> Databases & ORMs</b></summary>
   <br/>
   <p align="left">
     <a href="https://postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
@@ -92,7 +92,7 @@ Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believ
 </details>
 
 <details>
-  <summary><b>🚀 Deployment & Cloud Services</b></summary>
+  <summary><b> Deployment & Cloud Services</b></summary>
   <br/>
   <p align="left">
     <a href="https://supabase.com"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
@@ -104,7 +104,7 @@ Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believ
 </details>
 
 <details>
-  <summary><b>🔧 Development Tools</b></summary>
+  <summary><b> Development Tools</b></summary>
   <br/>
   <p align="left">
     <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
