@@ -135,3 +135,4 @@ Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believ
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
+  
