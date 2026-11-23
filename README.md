@@ -125,7 +125,6 @@ Hi! I'm **Algifahri Tri Ramadhan**, a student at **SMK Taruna Bhakti**. I believ
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=Algi221&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" height="195" alt="GitHub Stats" />
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Algi221&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="195" alt="Top Languages" />
   </p>
   <p align="center">
